@@ -1,0 +1,12 @@
+﻿syntax = "proto3";
+
+option csharp_namespace = "ChatClient.Protos";
+
+service ChatService {
+	rpc Join(stream Message) returns (stream Message);
+}
+
+message Message {
+	string user = 1;
+	string text = 2;
+}

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{417F0647-C5C2-4646-B266-250F23E57B61}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatClient/Program.cs">
+    <Files>
+      <File FileName="ChatClient/Program.cs" Line="39" Column="1" />
+      <File FileName="ChatClient/Protos/chat.proto" />
+      <File FileName="ChatClient/ChatClient.csproj" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatClient" expanded="True">
+            <Node name="ChatClient" expanded="True">
+              <Node name="Protos" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.ChatClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

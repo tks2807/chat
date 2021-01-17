@@ -1,0 +1,2 @@
+Chat.cs \
+ChatGrpc.cs: Protos/chat.proto
